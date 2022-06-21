@@ -15,3 +15,4 @@ Uses a machine learning model and a Kaggle database to predict the likeihood of 
 
 ## Result Page:
 ![Screenshot (235)](https://user-images.githubusercontent.com/57679541/174777546-bcba3d37-60e0-44a1-b572-1a4e284be60f.png)
+
